@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ComposeCourse</string>
+
+    <string name="pincode">Pincode</string>
+    <string name="businessName">Business Name</string>
+    <string name="nickName">Nickname</string>
+    <string name="address">Address</string>
+    <string name="landmark">Landmark</string>
+    <string name="city">City</string>
+    <string name="state">State</string>
+    <string name="contactName">Contact person name</string>
+    <string name="mobileNumber">Mobile number</string>
+    <string name="emailId">Email ID</string>
+</resources>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="black_1">#121212</color> <!-- used for status bar-->
+    <color name="black_2">#000</color> <!-- bg of app-->
+    <color name="black_3">#231f20</color> <!-- used for text with colored/dark color text-->
+    <color name="black_4">#1f1f1f</color> <!-- bg of button in forgot password-->
+    <color name="black_5">#14ffffff</color> <!-- bg of side navigation sub menu item-->
+    <color name="black_6">#111111</color> <!-- copyright text on yellow background-->
+
+
+
+    <color name="gray_1">#2effffff</color> <!-- color primary , used in toolbar, tab layout-->
+    <color name="gray_2">#33ffffff</color> <!-- used for bottom navigation view-->
+    <color name="gray_3">#ffffff</color> <!-- used for snack bar -->
+    <!--    <color name="gray_4">#2effffff</color> &lt;!&ndash; used in toolbar, tab layout .. UNUSED&ndash;&gt;-->
+    <color name="gray_5">#333333</color><!-- used for background of bottom sheet & alert boxes-->
+    <color name="gray_6">#14ffffff
+    </color> <!-- used for bg child items in recycler view .. UNUSED-->
+    <color name="gray_7">#1affffff</color> <!-- used for bg child items in recycler view-->
+    <color name="gray_8">#38ffffff</color> <!-- used for search bar bg [in registration] -->
+    <color name="gray_9">#40ffffff</color> <!-- used for chips bg in registration .. UNUSED-->
+    <color name="gray_10">#99ffffff</color> <!-- used for alternative text color-->
+    <color name="gray_11">#66ffffff
+    </color> <!-- used in edit text underlined && [in registration for couple of textview] .. UNUSED - Confirm with AJAY ? -->
+    <color name="gray_12">#4d231f20</color> <!-- used for disabled text, inside button -->
+    <color name="gray_13">#26ffffff
+    </color> <!-- used in bg of card view of topics to follow used in insights-->
+    <color name="gray_14">#0dffffff
+    </color> <!-- divider color in bottom sheet . used in insights -->
+    <color name="gray_15">#80ffffff
+    </color> <!-- used chips bg color approved - set password .. UNUSED-->
+    <color name="gray_16">#00ffffff</color> <!-- border background  .. UNUSED-->
+    <color name="gray_17">#73ffffff
+    </color> <!-- used for some icons [ close icon in otp bottomsheet ]-->
+    <color name="gray_18">#4dffffff</color> <!-- tab layout vertical divider-->
+    <color name="gray_19">#cccccc</color> <!-- Copyright bullet -->
+    <color name="gray_20">#40ffffff</color>
+    <color name="gray_21">#F4F0F0</color> <!-- Registration Background-->
+    <color name="gray_23">#6F707B</color>
+    <color name="grey_24">#F4F6FE</color>
+
+
+    <color name="white_1">#ffffff</color> <!-- used for icon. info icon-->
+    <color name="white_2">#ccffffff</color> <!-- used for default text color-->
+    <color name="white_3">#ccf7f7f7
+    </color> <!-- used for some icons [ message icon in otp bottomsheet ]-->
+    <color name="white_5">#66ffffff</color>
+
+
+    <color name="green">#28e3b4</color> <!-- color accent-->
+    <color name="green1">#00B468</color> <!-- color accent--> // rgba(0, 180, 104, 1)
+    <color name="green2">#6BB761</color>
+    <color name="green_light">#28fec8
+    </color> <!-- used in border color of button [in registration]-->
+    <color name="green_dark">#4d28e3b4</color> <!-- used for disabled-accent-colored views-->
+    <color name="green_dark_variant">#4d28fec8
+    </color> <!-- used for disabled-accent-colored views .. UNUSED-->
+
+    <color name="red_one">#ed4753</color>
+    // white
+    <color name="red_two">#eb7a82</color>
+    <color name="light_pink">#ffe6ea</color>
+    // dark
+    <color name="red_three">#33eb7a82</color>
+    // bg
+    <color name="darkGold">#D3980E</color>
+    <color name="gold">#f2b017</color>
+    <color name="color_light_blue">#b4f1ff</color>
+    <color name="color_red_var1">#eb7a82</color>
+    <color name="color_red_var2">#ed4753</color>
+    <color name="color_dirty_yellow">#865f00</color>
+    <color name="color_light_dirty_yellow">#ffe9b4</color>
+    <color name="green_varient">#00914f</color>
+
+    <color name="deepblue">#06164c</color>
+
+</resources>
